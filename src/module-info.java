@@ -1,0 +1,2 @@
+module dictionaryReaderExam {
+}
